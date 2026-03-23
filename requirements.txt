@@ -1,0 +1,4 @@
+torchrl
+tqdm
+swig
+gymnasium[box2d]
