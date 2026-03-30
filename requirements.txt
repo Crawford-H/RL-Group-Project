@@ -1,4 +1,8 @@
-torchrl
 tqdm
 swig
 gymnasium[box2d]
+gymnasium[other]
+stable-baselines3
+stable-baselines3[extra]
+matplotlib
+numpy
